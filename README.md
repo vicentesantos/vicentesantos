@@ -18,7 +18,22 @@ Estou procurando por uma oportunidade como estagiário para ganhar experiência,
 
 Obrigado!<br><br>
 
-[![https://www.linkedin.com/in/vincesgoncalves/](https://user-images.githubusercontent.com/79234463/133499331-7ee93f7e-5fbc-4c62-9b2d-0856b8305655.png)](https://www.linkedin.com/in/vincesgoncalves/) &nbsp;&nbsp;&nbsp;
+## Contate-me | Contact me 📱<br><br>
+<br>
+<p align="center">
+    <a href="https://github.com/vicentesantos">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/vicentesantos">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:vincesg96@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vincesg966@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/vincesgoncalves/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vincesgoncalves/">
+    </a>
+</p>
+
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentesantos&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicentesantos&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
