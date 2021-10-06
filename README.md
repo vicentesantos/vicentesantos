@@ -21,10 +21,6 @@ Obrigado!<br><br>
 ## Contate-me | Contact me 📱<br><br>
 <br>
 <p align="center">
-    <a href="https://github.com/vicentesantos">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/vicentesantos">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:vincesg96@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vincesg966@gmail.com">
     </a>
