@@ -5,13 +5,15 @@ I'm Vicente (he/him/they), a young transgender man 🏳️‍⚧️, librarian a
 I'm looking for an opportunity as Intern to get experience, learn each day new things and discovery a new world!<br>
 <br>
 Current learning:
-- HTML
-- CSS
-- JS
-- Java
-- VB.Net
-- C#
 - C
+- C#
+- CSS
+- HTML
+- Java
+- JS
+- MySQL
+- VB.Net
+
 
 Thank you!<br>
 <br>
@@ -24,13 +26,14 @@ Eu sou Vicente (ele/dele), um jovem homem trans 🏳️‍⚧️, bibliotecário
 Estou procurando por uma oportunidade como estagiário para ganhar experiência, apredender novas coisas a cada dia e descobrir um novo mundo.<br>
 <br> 
 Aprendendo:
-- HTML
-- CSS
-- JS
-- Java
-- VB.Net
-- C#
 - C
+- C#
+- CSS
+- HTML
+- Java
+- JS
+- MySQL
+- VB.Net
 
 Obrigado!<br><br>
 
