@@ -4,6 +4,14 @@
 I'm Vicente (he/him/they), a young transgender man 🏳️‍⚧️, librarian and software dev student at Fatec Zona Leste in São Paulo, Brazil 🇧🇷.<br>
 I'm looking for an opportunity as Intern to get experience, learn each day new things and discovery a new world!<br>
 <br>
+Current learning:
+- HTML
+- CSS
+- JS
+- Java
+- VB.Net
+- C#
+- C
 
 Thank you!<br>
 <br>
@@ -15,6 +23,14 @@ Thank you!<br>
 Eu sou Vicente (ele/dele), um jovem homem trans 🏳️‍⚧️, bibliotecário e estudante de desenvolvimento de software multiplataforma na Fatec Zona Leste em São Paulo, Brasil 🇧🇷.<br>
 Estou procurando por uma oportunidade como estagiário para ganhar experiência, apredender novas coisas a cada dia e descobrir um novo mundo.<br>
 <br> 
+Aprendendo:
+- HTML
+- CSS
+- JS
+- Java
+- VB.Net
+- C#
+- C
 
 Obrigado!<br><br>
 
