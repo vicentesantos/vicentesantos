@@ -8,7 +8,7 @@
 1. [CV :us:](#CVEngUS)
 2. [CV :brazil:](#CVPtBR)
 3. [Contact](#contact)
-4. [Frameworks, Plataforms, Libraries, IDEs](#frameworks)
+4. [Frameworks, Plataforms, Libraries, IDEs and Databases](#frameworks)
 5. [Languages](#languages)
 6. [Stats](#stats)
 
@@ -70,7 +70,7 @@
 
 </details>
 
-Return to the [top](#index). 
+[Return to the top](#index). 
 <br><br>
 
 ## CV :brazil: <a id="CVPtBR"></a><br>
@@ -130,7 +130,7 @@ Return to the [top](#index).
  <br>
 </details>
 
-Voltar para o [topo](#index).
+[Voltar para o topo](#index).
 <br><br>
 
 ## Contact<a id="contact"></a><br>
@@ -148,10 +148,10 @@ Voltar para o [topo](#index).
     </a>
 </p>
 
-Return to the [top](#index). 
+[Return to the top](#index). 
 <br><br>
 
-## Frameworks, Plataforms, Libraries, IDEs<a id="frameworks"></a><br>
+## Frameworks, Plataforms, Libraries, IDEs and Databases<a id="frameworks"></a><br>
 <div align="center">
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -162,10 +162,13 @@ Return to the [top](#index).
 &nbsp; ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 &nbsp; ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)<br>
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
-Return to the [top](#index). 
+[Return to the top](#index). 
 <br><br>
 
 ## Languages <a id="languages"></a><br>
@@ -181,7 +184,7 @@ Return to the [top](#index).
 <br>
 </div>
 
-Return to the [top](#index). 
+[Return to the top](#index). 
 <br><br>
 
 ## Stats<a id="stats"></a><br>
@@ -193,4 +196,4 @@ Return to the [top](#index).
 
 </div>
 
-Return to the [top](#index).
+[Return to the top](#index).
