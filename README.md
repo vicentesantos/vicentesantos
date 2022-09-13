@@ -4,7 +4,7 @@
 :brazil: Olá, eu sou o **Vicente Santos Gonçalves** (ele/dele), um jovem homem trans 🏳️‍⚧️, bibliotecário e estudante de desenvolvimento de software multiplataforma na Fatec Zona Leste vivendo em São Paulo - SP, Brasil. 
 <br><br>
 
-# Table of Contents <a id="index">
+## Table of Contents <a id="index">
 1. [CV :us:](#CVEngUS)
 2. [CV :brazil:](#CVPtBR)
 3. [Contact](#contact)
