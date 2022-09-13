@@ -71,7 +71,7 @@
 
 </details>
 
-[Return to the top](#index). 
+[Return to the top.](#index) 
 <br><br>
 
 ## CV :brazil: <a id="CVPtBR"></a><br>
@@ -131,7 +131,7 @@
  <br>
 </details>
 
-[Voltar para o topo](#index).
+[Voltar para o topo.](#index)
 <br><br>
 
 ## Design <a id="design"></a><br>
@@ -152,7 +152,7 @@
 
 </div>
 
-[Return to the top](#index). 
+[Return to the top.](#index) 
 <br><br>
 
 ## Contact<a id="contact"></a><br>
@@ -170,7 +170,7 @@
     </a>
 </p>
 
-[Return to the top](#index). 
+[Return to the top.](#index) 
 <br><br>
 
 ## Frameworks, Plataforms, Libraries, IDEs and Databases<a id="frameworks"></a><br>
@@ -190,7 +190,7 @@
 
 </div>
 
-[Return to the top](#index). 
+[Return to the top.](#index) 
 <br><br>
 
 ## Languages <a id="languages"></a><br>
@@ -206,7 +206,7 @@
 <br>
 </div>
 
-[Return to the top](#index). 
+[Return to the top.](#index)
 <br><br>
 
 ## Stats<a id="stats"></a><br>
@@ -218,4 +218,4 @@
 
 </div>
 
-[Return to the top](#index).
+[Return to the top.](#index)
