@@ -1,6 +1,6 @@
 # Hi there 👋 <br>
 
-:us: I'm **Vicente Santos Gonçalves** (he/him/they), transgender man 🏳️‍⚧️, librarian and systema/data analyst in Change Management B2C at Vivo, a Telefonica Brasil Company.<br><br>
+:us: I'm **Vicente Santos Gonçalves** (he/him/they), transgender man 🏳️‍⚧️, librarian and system/data analyst in Change Management B2C at Vivo, a Telefonica Brasil Company.<br><br>
 :brazil: Olá, eu sou o **Vicente Santos Gonçalves** (ele/dele), homem trans 🏳️‍⚧️, bibliotecário e analista de sistemas/dados junior em Change Management B2C de TI na Vivo (Telefônica Brasil).
 <br><br>
 
